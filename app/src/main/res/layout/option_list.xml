@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/option_list"
+        android:padding="10dp"
+        android:textStyle="bold"
+        android:textSize="20sp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/abu"
+        android:padding="5dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textDetail"
+        android:drawableStart="@drawable/ic_zoom_plus_sign"
+        android:text="@string/detail"
+        android:visibility="gone"
+        android:padding="10dp"
+        android:textSize="15sp"
+        android:layout_marginStart="10dp"
+        android:drawablePadding="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textEdit"
+        android:visibility="gone"
+        android:drawableStart="@drawable/ic_edit"
+        android:text="@string/edit"
+        android:padding="10dp"
+        android:textSize="15sp"
+        android:layout_marginStart="10dp"
+        android:drawablePadding="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textDelete"
+        android:visibility="gone"
+        android:drawableStart="@drawable/ic_rubbish_bin"
+        android:text="@string/delete"
+        android:padding="10dp"
+        android:textSize="15sp"
+        android:layout_marginStart="10dp"
+        android:drawablePadding="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textExcel"
+        android:visibility="gone"
+        android:drawableStart="@drawable/ic_xlsx_file_format_extension"
+        android:text="@string/excel"
+        android:padding="10dp"
+        android:textSize="15sp"
+        android:layout_marginStart="10dp"
+        android:drawablePadding="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textManual"
+        android:visibility="gone"
+        android:drawableStart="@drawable/ic_contract"
+        android:text="@string/manual"
+        android:padding="10dp"
+        android:textSize="15sp"
+        android:layout_marginStart="10dp"
+        android:drawablePadding="10dp"/>
+
+</LinearLayout>

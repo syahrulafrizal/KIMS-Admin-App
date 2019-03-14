@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bottom_task"
+        android:title="@string/task"
+        android:icon="@drawable/ic_clipboard"/>
+
+    <item
+        android:id="@+id/bottom_claim"
+        android:title="@string/claim"
+        android:icon="@drawable/ic_get_gifts"/>
+
+    <item
+        android:id="@+id/bottom_approve"
+        android:title="@string/approval"
+        android:icon="@drawable/ic_verified_text_paper"/>
+</menu>
