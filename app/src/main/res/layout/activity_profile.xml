@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Activity.ProfileActivity"
+    tools:context=".activity.profile.ProfileActivity"
     android:fitsSystemWindows="false">
 
     <android.support.design.widget.AppBarLayout
@@ -203,7 +203,7 @@
                         android:gravity="end|center_vertical"
                         android:layout_margin="8dp"
                         android:id="@+id/value_potition"
-                        android:text="IT Manager"
+                        android:text="Admin"
                         android:textColor="#000"
                         android:padding="5dp"/>
                 </LinearLayout>

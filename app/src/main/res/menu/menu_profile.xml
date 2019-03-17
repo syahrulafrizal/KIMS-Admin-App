@@ -11,13 +11,13 @@
         app:showAsAction="always">
         <menu>
             <item
-                android:id="@+id/edit"
+                android:id="@+id/editProfile"
                 android:title="@string/edit_profile"
                 android:icon="@drawable/ic_edit_profile"
                 app:showAsAction="ifRoom"/>
             <item
-                android:id="@+id/chaneg"
-                android:title="Change Password"
+                android:id="@+id/changePassword"
+                android:title="@string/change_password"
                 android:icon="@drawable/ic_change_pass"
                 app:showAsAction="ifRoom"/>
         </menu>

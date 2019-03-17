@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:drawable="@color/colorPrimary" />
+    <item android:drawable="@color/putih" />
 
     <item android:gravity="center"
         android:width="110dp"
@@ -9,6 +9,12 @@
         <bitmap
             android:gravity="fill_horizontal|fill_vertical"
             android:src="@drawable/kims_logo"/>
+    </item>
+
+    <item android:gravity="bottom">
+        <bitmap
+            android:gravity="bottom|center_horizontal"
+            android:src="@drawable/kims"/>
     </item>
 
 </layer-list>

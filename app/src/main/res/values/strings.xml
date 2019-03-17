@@ -47,4 +47,54 @@
     <string name="task">Task</string>
     <string name="jenis">Jenis</string>
     <string name="nominal">Nominal</string>
+    <string name="hintSN">Serial Number</string>
+    <string name="kode_qr">Kode QR</string>
+    <string name="simpan_data">simpan data</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="add_product">ADD PRODUCT</string>
+    <string name="add_admin">ADD ADMIN</string>
+    <string name="full_name">Full Name</string>
+    <string name="admin">Admin</string>
+    <string name="non_admin">Non Admin</string>
+    <string name="add_customer_service">ADD CUSTOMER SERVICE</string>
+    <string name="nama_customer_service">Nama Customer Service</string>
+    <string name="wilayah">Wilayah</string>
+    <string name="no_telepon">No. Telepon</string>
+    <string name="add_faq">ADD FAQ</string>
+    <string name="judul_faq">Judul FAQ</string>
+    <string name="deskripsi_faq">Deskripsi FAQ</string>
+    <string name="add_reward">ADD REWARD</string>
+    <string name="nominal_reward">Nominal Reward</string>
+    <string name="jumlah_point">Jumlah Point</string>
+    <string name="type_reward">Type Reward</string>
+    <string name="cash">Cash</string>
+    <string name="pulsa">Pulsa</string>
+    <string name="add_store">ADD STORE</string>
+    <string name="nama_toko">Nama Toko</string>
+    <string name="alamat">Alamat</string>
+    <string name="change_password">Change Password</string>
+    <string name="edit_admin">EDIT ADMIN</string>
+    <string name="detail_admin">DETAIL ADMIN</string>
+    <string name="edit_customer_service">EDIT CUSTOMER SERVICE</string>
+    <string name="detail_customer_service">DETAIL CUSTOMER SERVICE</string>
+    <string name="edit_product">EDIT PRODUCT</string>
+    <string name="detail_product">DETAIL PRODUCT</string>
+    <string name="edit_reward">EDIT REWARD</string>
+    <string name="edit_store">EDIT STORE</string>
+    <string name="tolak">tolak</string>
+    <string name="konfirmasi">konfirmasi</string>
+    <string name="detail_pengajuan_member">DETAIL PENGAJUAN MEMBER</string>
+    <string name="detail_claim_reward">DETAIL CLAIM REWARD</string>
+    <string name="riwayat_reward">Riwayat Reward</string>
+    <string name="riwayat_scan">Riwayat Scan</string>
+    <string name="detail_sales">DETAIL SALES</string>
+    <string name="list_riawayt_reward">LIST RIWAYAT REWARD</string>
+    <string name="list_riwayat_scan">LIST RIWAYAT SCAN</string>
+    <string name="add_task">ADD TASK</string>
+    <string-array name="postion_array">
+        <item>--- choose Position ---</item>
+        <item>Admin</item>
+        <item>Non Admin</item>
+    </string-array>
 </resources>
